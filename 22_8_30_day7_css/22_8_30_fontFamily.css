@@ -1,0 +1,40 @@
+.serif {
+    font-family: serif;
+}
+
+.sans_serif {
+    font-family: sans-serif;
+}
+
+.cursive {
+    font-family: cursive;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+.dotum_eng {
+    font-family: dotum;
+}
+
+.dotum_kor {
+    font-family: "돋움"
+}
+
+/* @font-face {
+    font-family: sans-serif;
+    src: url();
+} */
+
+.google_web_font {
+    font-family: 'Alumni Sans Pinstripe', 'Noto Sans KR';
+}
+
+.font_1 {
+    font: 50px 'dokdo';
+}
+
+.font_2 {
+    font: italic normal bold 32px/100px 'Dancing Script';
+}
